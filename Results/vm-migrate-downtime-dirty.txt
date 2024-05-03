@@ -1,0 +1,61 @@
+mem size = 1200MB
+page size = 4KB
+numPages = 1200*1e6 / 4 * 1e3 = 300 * 1e3 = 300000
+
+dr = 100
+Total migration time: 12 seconds
+2024-04-28 19:11:11: vm-1 is paused 4 times
+
+
+dr = 500
+Total migration time: 19 seconds
+2024-04-28 19:16:07: vm-1 is paused 4 times
+
+dr=1000
+Total migration time: 14 seconds
+2024-04-28 19:19:42: vm-1 is paused 5 times
+
+dr-1500
+Total migration time: 15 seconds
+2024-04-28 19:22:27: vm-1 is paused 6 times
+
+dr-2000
+Total migration time: 15 seconds
+2024-04-28 19:24:05: vm-1 is paused 5 times
+
+dr-3000
+2024-04-28 19:31:34: vm-1 is paused 4 times
+Total migration time: 15 seconds
+
+
+dr-5000
+Total migration time: 18 seconds
+2024-04-28 19:33:03: vm-1 is paused 4 times
+
+dr-8000
+Total migration time: 23 seconds
+2024-04-28 19:35:16: vm-1 is paused 4 times
+
+dr-10000
+Total migration time: 24 seconds
+2024-04-28 19:37:04: vm-1 is paused 5 times
+
+
+dr-20000
+Total migration time: 35 seconds
+2024-04-28 19:39:15: vm-1 is paused 5 times
+
+dr-30000
+dr-300002024-04-28 19:52:52: vm-1 is paused 4 times
+Total migration time: 171 seconds
+
+dr-50000
+hang
+
+dr - 40000
+hang
+
+dr-35000
+hang
+
+2024-04-28 23:01:04: vm-1 is paused 0 times

@@ -1,0 +1,138 @@
+maxdowntime = 500
+Total Migration Time = 101 sec
+2024-05-02 04:07:30: vm-1 is paused 9 times
+
+maxdowntime = 50
+Total Migration Time = 100 sec
+2024-05-02 04:11:12: vm-1 is paused 5 times
+
+maxdowntime = 5
+Total Migration Time = 105 sec
+2024-05-02 04:14:31: vm-1 is paused 5 times
+
+maxdowntime = 1
+Total Migration Time = 109 sec
+2024-05-02 17:25:39: vm-1 is paused 10 times
+
+maxdowntime = 0.1
+Total Migration Time = 109 sec
+2024-05-02 17:35:07: vm-1 is paused 8 times
+
+maxdowntime = 50
+Dirty Rate = 500
+Total Migration Time = 162 sec
+2024-05-02 18:29:22: vm-1 is paused 6 times
+
+maxdowntime = 40
+Dirty Rate = 500
+Total Migration Time = 159 sec
+2024-05-02 18:34:49: vm-1 is paused 5 times
+
+maxdowntime = 30
+Dirty Rate = 500
+Total Migration Time = 149 sec
+2024-05-02 19:24:46: vm-1 is paused 6 times
+
+maxdowntime = 10
+Dirty Rate = 500
+Total Migration Time = 199 sec
+2024-05-02 20:20:20: vm-1 is paused 5 times
+
+maxdowntime = 9
+Dirty Rate = 500
+Total Migration Time = 231 sec
+2024-05-02 20:34:49: vm-1 is paused 6 times
+
+maxdowntime = 8
+Dirty Rate = 500
+Total Migration Time = 148 sec
+2024-05-02 20:46:55: vm-1 is paused 5 times
+
+maxdowntime = 7
+Dirty Rate = 500
+Total Migration Time = 149 sec
+2024-05-02 20:52:12: vm-1 is paused 5 times
+
+maxdowntime = 6
+Dirty Rate = 500
+Total Migration Time = 199 sec
+2024-05-02 21:00:30: vm-1 is paused 5 times
+
+maxdowntime = 5
+Dirty Rate = 500
+Total Migration Time = 152 sec
+2024-05-02 21:15:15: vm-1 is paused 5 times
+
+maxdowntime = 4
+Dirty Rate = 500
+Total Migration Time = 196 sec
+2024-05-02 21:23:43: vm-1 is paused 5 times
+
+maxdowntime = 3
+Dirty Rate = 500
+Total Migration Time = 150 sec
+2024-05-02 21:28:07: vm-1 is paused 4 times
+
+maxdowntime = 2
+Dirty Rate = 500
+Total Migration Time = 177 sec
+2024-05-02 21:38:33: vm-1 is paused 5 times
+
+maxdowntime = 1
+Dirty Rate = 500
+Total Migration Time = 158 sec
+2024-05-02 21:49:05: vm-1 is paused 4 times
+
+
+
+
+maxdowntime = 1
+Dirty Rate = 1000
+Total Migration Time = 288 sec
+2024-05-02 23:50:10: vm-1 is paused 6 times
+
+maxdowntime = 2
+Dirty Rate = 1000
+Total Migration Time = 288 sec
+
+
+maxdowntime = 3
+Dirty Rate = 1000
+Total Migration Time = 201 sec
+2024-05-02 23:56:31: vm-1 is paused 5 times
+
+maxdowntime = 5
+Dirty Rate = 1000
+Total Migration Time = 199 sec
+2024-05-03 00:04:37: vm-1 is paused 5 times
+
+maxdowntime = 8
+Dirty Rate = 1000
+Total Migration Time = 189 sec
+2024-05-03 00:11:09: vm-1 is paused 5 times
+
+
+maxdowntime = 1
+Dirty Rate = 1500
+Total Migration Time = 356 sec
+2024-05-03 00:19:58: vm-1 is paused 4 times
+
+
+maxdowntime = 1
+Dirty Rate = 1700
+Total Migration Time = 602 sec
+2024-05-03 00:57:45: vm-1 is paused 5 times
+
+maxdowntime = 3
+Dirty Rate = 1700
+Total Migration Time = 475 sec
+2024-05-03 01:43:12: vm-1 is paused 6 times
+
+maxdowntime = 5
+Dirty Rate = 1700
+Total Migration Time = 145 sec
+2024-05-03 01:49:27: vm-1 is paused 4 times
+
+maxdowntime = 5
+Dirty Rate = 2000
+Total Migration Time = 145 sec

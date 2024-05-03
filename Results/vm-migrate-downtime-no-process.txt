@@ -1,0 +1,77 @@
+Vm without any load.
+4gb memory 
+4cpus
+just varying the Bandwidth to check the migration time.
+Bandwidth is in Mbps
+
+
+BW 5
+2024-04-25 17:44:16: vm-1 is paused 2 times
+Total migration time: 203 seconds
+
+BW 10
+2024-04-25 16:14:17: vm-1 is paused 2 times
+Total migration time: 119 seconds
+
+
+Bw 15
+2024-04-25 16:35:32: vm-1 is paused 2 times
+Total migration time: 75 seconds
+
+
+BW 20
+2024-04-25 16:18:45: vm-1 is paused 4 times
+Total migration time: 53 seconds
+
+
+BW 30
+2024-04-25 16:23:01: vm-1 is paused 2 times
+Total migration time: 38 seconds
+
+
+Bw 40
+2024-04-25 16:26:35: vm-1 is paused 3 times
+Total migration time: 31 seconds
+
+BW 50
+2024-04-25 16:16:28: vm-1 is paused 2 times
+Total migration time: 23 seconds
+
+
+BW 60
+2024-04-25 17:51:30: vm-1 is paused 6 times
+Total migration time: 20 seconds
+
+BW 70
+2024-04-25 17:53:00: vm-1 is paused 2 times
+Total migration time: 17 seconds
+
+
+BW 80
+2024-04-25 17:54:19: vm-1 is paused 3 times 
+Total migration time: 15 seconds
+
+BW 90
+2024-04-25 17:56:17: vm-1 is paused 3 times
+Total migration time: 14 seconds
+
+Bandwidth : 100Mbps
+2024-04-25 16:07:15: vm-1 is paused 3 times
+Total migration time: 12 seconds
+
+BW 200
+2024-04-25 17:57:50: vm-1 is paused 6 times
+Total migration time: 12 seconds
+
+BW 500
+2024-04-25 17:59:05: vm-1 is paused 2 times
+Total migration time: 12 seconds
+
+Bandwidth : 800Mbps
+2024-04-25 16:03:19: vm-1 is paused 4 times
+Total migration time: 12 seconds
+
+
+Bandwidth : max
+2024-04-25 15:55:14: vm-1 is paused 5 times
+Total migration time: 12 seconds

@@ -1,0 +1,167 @@
+1 thread
+
+mem-100
+Total migration time: 13 seconds
+2024-04-27 16:07:21: vm-1 is paused 2 times
+
+mem-200
+Total migration time: 14 seconds
+2024-04-27 16:10:00: vm-1 is paused 5 times
+
+mem-500
+Total migration time: 17 seconds
+2024-04-27 16:14:17: vm-1 is paused 2 times
+
+
+mem-700
+Total migration time: 18 seconds
+2024-04-27 16:32:34: vm-1 is paused 1 times
+
+mem-900
+Total migration time: 20 seconds
+2024-04-27 16:41:06: vm-1 is paused 2 times
+
+mem-1200
+Total migration time: 22 seconds
+2024-04-27 16:43:14: vm-1 is paused 2 times
+
+mem-1500
+Total migration time: 23 seconds
+2024-04-27 16:45:45: vm-1 is paused 3 times
+
+mem-1800
+Total migration time: 26 seconds
+2024-04-27 16:48:13: vm-1 is paused 4 times
+
+
+mem-2000
+Total migration time: 27 seconds
+2024-04-27 16:54:31: vm-1 is paused 4 times
+
+---------------------------------------------------------------------------------------------
+
+threads = 2
+mem-100
+Total migration time: 14 seconds
+2024-04-27 18:15:49: vm-1 is paused 2 times
+
+mem-200
+Total migration time: 14 seconds
+2024-04-27 18:17:52: vm-1 is paused 2 times
+
+
+mem-500
+Total migration time: 16 seconds
+2024-04-27 18:21:58: vm-1 is paused 4 times
+
+
+mem-700
+Total migration time: 18 seconds
+2024-04-27 18:26:13: vm-1 is paused 3 times
+
+
+mem-900
+Total migration time: 20 seconds
+2024-04-27 18:28:13: vm-1 is paused 4 times
+
+mem-1200
+Total migration time: 24 seconds
+2024-04-27 18:30:19: vm-1 is paused 5 times
+
+mem-1500
+Total migration time: 28 seconds
+2024-04-27 18:32:37: vm-1 is paused 5 times
+
+
+mem-1800
+Total migration time: 30 seconds
+2024-04-27 18:34:23: vm-1 is paused 9 times
+
+mem-2000
+Total migration time: 31 seconds
+2024-04-27 18:36:16: vm-1 is paused 10 times
+
+-------------------------------------------------------------------------------
+
+threads =3
+
+mem-100
+Total migration time: 13 seconds
+2024-04-27 18:38:21: vm-1 is paused 2 times
+
+
+mem-200
+Total migration time: 14 seconds
+2024-04-27 18:40:39: vm-1 is paused 2 times
+
+mem-500
+Total migration time: 16 seconds
+2024-04-27 18:42:21: vm-1 is paused 3 times
+
+mem-700
+Total migration time: 18 seconds
+2024-04-27 18:44:09: vm-1 is paused 3 times
+
+
+mem-900
+Total migration time: 20 seconds
+2024-04-27 18:45:16: vm-1 is paused 3 times
+
+
+mem-1200
+Total migration time: 23 seconds
+2024-04-27 18:47:12: vm-1 is paused 5 times
+
+mem-1500
+Total migration time: 25 seconds
+2024-04-27 18:48:52: vm-1 is paused 4 times
+
+mem-1800
+Total migration time: 29 seconds
+2024-04-27 18:50:29: vm-1 is paused 6 times
+
+mem-2000
+Total migration time: 27 seconds
+2024-04-27 18:52:19: vm-1 is paused 7 times
+
+---------------------------------------------------------------------
+
+threads=4
+
+mem-100
+Total migration time: 15 seconds
+2024-04-27 18:55:34: vm-1 is paused 1 times
+
+mem-200
+Total migration time: 14 seconds
+2024-04-27 18:57:19: vm-1 is paused 3 times
+
+mem-500
+Total migration time: 16 seconds
+2024-04-27 18:59:19: vm-1 is paused 4 times
+
+
+mem-700
+Total migration time: 19 seconds
+2024-04-27 19:00:35: vm-1 is paused 3 times
+
+mem-900
+Total migration time: 21 seconds
+2024-04-27 19:02:28: vm-1 is paused 5 times
+
+mem-1200
+Total migration time: 23 seconds
+2024-04-27 19:03:43: vm-1 is paused 3 times
+
+mem-1500
+Total migration time: 26 seconds
+2024-04-27 19:07:53: vm-1 is paused 5 times
+
+mem-1800
+Total migration time: 29 seconds
+2024-04-27 19:09:23: vm-1 is paused 4 times
+
+mem-2000
+Total migration time: 31 seconds
+2024-04-27 19:12:07: vm-1 is paused 5 times
+--------------------------------------------------------------------------2024-04-27 21:26:05: vm-1 is paused 0 times
